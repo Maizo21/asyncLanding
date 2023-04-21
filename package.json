@@ -1,0 +1,28 @@
+{
+  "name": "asynclanding",
+  "version": "1.0.0",
+  "description": "Landing asincrona",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^19.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maizo21/asyncLanding.git"
+  },
+  "keywords": [
+    "Landing",
+    "Javascript",
+    "Async"
+  ],
+  "author": "Hernan Amaiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maizo21/asyncLanding/issues"
+  },
+  "homepage": "https://github.com/Maizo21/asyncLanding#readme"
+}
